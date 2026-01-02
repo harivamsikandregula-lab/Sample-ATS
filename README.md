@@ -16,7 +16,7 @@ Drop in your secret sauce: Open main.py and swap out the placeholder with your o
 
 
 🛠️ Tech Stack: 
-Component,Technology Used
+Component,Technology Useed: 
 Frontend,"HTML5, Tailwind CSS, JavaScript (ES6+)"
 Backend,"Python, Flask, Flask-CORS"
 AI Model,Google GenAI (Gemini 2.5 Flash)
